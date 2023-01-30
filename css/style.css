@@ -5,37 +5,33 @@
     background-repeat: repeat-x;
     background-size: contain;
 }
-
-.logo
+.stylesite
 {
     margin-left: 200px;
+}
+.logo
+{
     width: 300px;
     height: 70px;
     padding-top: 60px;
 }
-/* .app-main
-{
-   
-} */
-.title
-{
-    margin-left: 200px;
-}
+
 .credit
 {
     color: #4ea0ff;
 }
-.img-title
-{
-    margin-left: 200px;
-}
 .articletext
 {
-    margin-left: 200px;
+    width: 1600px;
+}
+.yellowtext
+{
+    color: yellow;
 }
 .tabledate
 {
     border-collapse: collapse;
+    width: 1600px;
 }
 .rpair
 {
@@ -44,4 +40,8 @@
 .tabledatahead
 {
     background-color: #20a9e5;
+}s
+.app-footer
+{
+    color: #7e7e7e;
 }
