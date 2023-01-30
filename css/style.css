@@ -26,12 +26,16 @@
 }
 .yellowtext
 {
-    color: yellow;
+    background-color: yellow;
 }
 .tabledate
 {
     border-collapse: collapse;
     width: 1600px;
+}
+.cell
+{
+    width: 50%;
 }
 .rpair
 {
