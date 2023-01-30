@@ -45,3 +45,20 @@
 {
     color: #7e7e7e;
 }
+.photograph,.photomonitor
+{
+    width: 320px;
+    height: 250px;
+    background-size: cover;
+    color: white;
+    font-size: 30px;
+}
+.photograph
+{
+    background-image: url(../img/graph.jpg);
+}
+.photomonitor
+{
+    background-image: url(../img/monitor.jpg);
+
+}
