@@ -13,10 +13,10 @@
     height: 70px;
     padding-top: 60px;
 }
-.app-main
+/* .app-main
 {
    
-}
+} */
 .title
 {
     margin-left: 200px;
@@ -28,5 +28,20 @@
 .img-title
 {
     margin-left: 200px;
-
+}
+.articletext
+{
+    margin-left: 200px;
+}
+.tabledate
+{
+    border-collapse: collapse;
+}
+.rpair
+{
+    background-color: #b1e5f2;
+}
+.tabledatahead
+{
+    background-color: #20a9e5;
 }
