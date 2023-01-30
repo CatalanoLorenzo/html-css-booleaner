@@ -1,9 +1,9 @@
 .app-header
 {
-    height: 155px;
     background-color: #4ea0ff;
     background-image: url(../img/pattern.png);
     background-repeat: repeat-x;
+    background-size: contain;
 }
 
 .logo
